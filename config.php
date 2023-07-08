@@ -1,8 +1,8 @@
 <?php
 
-$db_name = "mysql:host=localhost;dbname=user_form";
-$username = "root";
-$password = "";
+$db_name = "mysql:host=sql6.freemysqlhosting.net;dbname=sql6631289";
+$username = "sql6631289";
+$password = "wJZYjEFcBR";
 
 $conn = new PDO($db_name, $username, $password);
 
